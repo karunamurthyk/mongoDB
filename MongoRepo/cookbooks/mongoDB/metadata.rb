@@ -1,0 +1,7 @@
+name 'mongoDB'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures mongoDB'
+long_description 'Installs/Configures mongoDB'
+version '0.1.0'
