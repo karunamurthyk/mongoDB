@@ -1,3 +1,3 @@
 service "mongod" do
-	action  [ :enable, :start ]
+	action  [ :enable, :restart ]
 end

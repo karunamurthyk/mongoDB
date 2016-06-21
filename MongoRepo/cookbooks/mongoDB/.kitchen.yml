@@ -15,7 +15,7 @@ platforms:
   - name: centos-6.5
 
 suites:
-  - name: default
+  - name: default1
     run_list:
       - recipe[mongoDB::default]
     attributes:
