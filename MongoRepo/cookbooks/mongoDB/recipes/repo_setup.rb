@@ -4,5 +4,5 @@ cookbook_file '/etc/yum.repos.d/mongo_repo.repo' do
   owner 'root'
   group 'root'
   mode '0755'
-  action :create
+  action :create_if_missing
 end
